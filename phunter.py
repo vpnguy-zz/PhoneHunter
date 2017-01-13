@@ -1,4 +1,6 @@
 #psearch.py
+#Usage: ./phunter <phone number>
+#Example: ./phunter.py 5555551234
 
 import urllib2
 import base64
