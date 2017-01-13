@@ -18,6 +18,15 @@ Additionally this script could malfunction at any time and is provided as is wit
 
 ###Example: 
 **./phunter 5555551234**
+
+    Name: Sample User
+    Address Line1: 1337 Leet ST
+    Address Line2: 
+    City: Testville
+    State: AZ
+    Zip: 12345
+    Email: test@user.com
+
  
 
 ## To be added:
